@@ -1,0 +1,15 @@
+{
+	id: "3a234236-41b1-4680-9adb-24289f3a3fae"
+	type: "player"
+	player_name: "Tekkyo08"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Tekkyo08"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

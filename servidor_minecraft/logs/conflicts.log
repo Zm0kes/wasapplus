@@ -1,0 +1,234 @@
+===================================================================
+minecraft:crafting recipe conflicts (78)
+===================================================================
+
+1: quark:building/crafting/vertplanks/vertical_oak_planks, handcrafted:oak_pillar_trim
+
+2: quark:building/crafting/vertslabs/dark_oak_vertical_slab, mcwwindows:dark_oak_louvered_shutter
+
+3: quark:building/crafting/compressed/potato_crate, farmersdelight:potato_crate
+
+4: minecraft:dye_pink_wool, quark:tweaks/crafting/utility/wool/pink_wool
+
+5: quark:building/crafting/furnaces/cobblestone_furnace, quark:building/crafting/furnaces/deepslate_furnace
+
+6: handcrafted:birch_nightstand, brewery:sideboard
+
+7: mcdw:dagger_dagger, divine_weaponry:iron_dagger_craft, simplyswords:iron_sai
+
+8: quark:building/crafting/vertslabs/granite_vertical_slab, mcwwindows:granite_louvered_shutter
+
+9: minecraft:dye_white_wool, quark:tweaks/crafting/utility/wool/white_wool
+
+10: cfm:stripped_warped_crate, quark:tweaks/crafting/utility/chests/warped_chest_wood
+
+11: quark:building/crafting/vertplanks/vertical_jungle_planks, handcrafted:jungle_pillar_trim
+
+12: simplyswords:diamond_glaive, divine_weaponry:diamond_glaive_craft
+
+13: minecraft:dye_red_wool, quark:tweaks/crafting/utility/wool/red_wool
+
+14: quark:building/crafting/vertslabs/oak_vertical_slab, mcwwindows:oak_louvered_shutter
+
+15: quark:building/crafting/vertslabs/mangrove_vertical_slab, mcwwindows:mangrove_louvered_shutter
+
+16: minecraft:dye_blue_wool, quark:tweaks/crafting/utility/wool/blue_wool
+
+17: nethers_exoticism:jaboticaba_stick_recipe, minecraft:stick
+
+18: minecraft:dye_magenta_wool, quark:tweaks/crafting/utility/wool/magenta_wool
+
+19: simplyswords:iron_rapier, mcdw:sword_katana
+
+20: samurai_dynasty:blue_samurai_leggings, samurai_dynasty:blue_samurai_leggings_master
+
+21: quark:tweaks/crafting/dirty_glass, quark:tweaks/crafting/white_glass
+
+22: vinery:apple_bag, quark:building/crafting/compressed/apple_crate
+
+23: minecraft:dye_brown_wool, quark:tweaks/crafting/utility/wool/brown_wool
+
+24: simplyswords:diamond_rapier, mcdw:sword_diamond_sword_var
+
+25: simplyswords:gold_glaive, divine_weaponry:golden_glaive_craft
+
+26: quark:tweaks/crafting/utility/chests/mixed_chest_wood, quark:tweaks/crafting/utility/chests/oak_chest_wood
+
+27: cfm:stripped_birch_bedside_cabinet, cfm:stripped_birch_cabinet, cfm:stripped_birch_crate, quark:tweaks/crafting/utility/chests/birch_chest_wood
+
+28: minecraft:dye_orange_wool, quark:tweaks/crafting/utility/wool/orange_wool
+
+29: minecraft:dye_yellow_wool, quark:tweaks/crafting/utility/wool/yellow_wool
+
+30: minecraft:dye_lime_wool, quark:tweaks/crafting/utility/wool/lime_wool
+
+31: biomesoplenty:cut_orange_sandstone_slab, biomesoplenty:orange_sandstone_slab
+
+32: samurai_dynasty:white_samurai_leggings, samurai_dynasty:white_samurai_leggings_master
+
+33: cfm:stripped_acacia_crate, quark:tweaks/crafting/utility/chests/acacia_chest_wood
+
+34: quark:building/crafting/vertplanks/vertical_warped_planks, handcrafted:warped_pillar_trim
+
+35: quark:building/crafting/vertslabs/cherry_vertical_slab, mcwwindows:cherry_louvered_shutter
+
+36: nethers_exoticism:jabuticaba_branch_recipe, nethers_exoticism:jabuticaba_planks_recipe_2
+
+37: minecraft:dye_green_wool, quark:tweaks/crafting/utility/wool/green_wool
+
+38: cfm:stripped_crimson_cabinet, quark:tweaks/crafting/utility/chests/crimson_chest_wood
+
+39: quark:building/crafting/vertslabs/crimson_vertical_slab, mcwwindows:crimson_louvered_shutter
+
+40: quark:building/crafting/vertslabs/diorite_vertical_slab, mcwwindows:diorite_louvered_shutter
+
+41: quark:building/crafting/vertslabs/spruce_vertical_slab, mcwwindows:spruce_louvered_shutter
+
+42: handcrafted:birch_pillar_trim, quark:building/crafting/vertplanks/vertical_birch_planks
+
+43: quark:building/crafting/vertslabs/warped_vertical_slab, mcwwindows:warped_louvered_shutter
+
+44: simplyswords:iron_glaive, divine_weaponry:iron_glaive_craft
+
+45: minecraft:cake, farmersdelight:cake_from_milk_bottle
+
+46: cfm:stripped_mangrove_bedside_cabinet, cfm:stripped_mangrove_cabinet, cfm:stripped_mangrove_crate, quark:tweaks/crafting/utility/chests/mangrove_chest_wood
+
+47: minecraft:dye_cyan_wool, quark:tweaks/crafting/utility/wool/cyan_wool
+
+48: quark:building/crafting/vertslabs/jungle_vertical_slab, mcwwindows:jungle_louvered_shutter
+
+49: mcwwindows:andesite_louvered_shutter, quark:building/crafting/vertslabs/andesite_vertical_slab
+
+50: cfm:stripped_spruce_bedside_cabinet, cfm:stripped_spruce_cabinet, cfm:stripped_spruce_crate, quark:tweaks/crafting/utility/chests/spruce_chest_wood
+
+51: mcdw:crossbow_heavy, mcdw:crossbow_slayer
+
+52: biomesoplenty:black_sandstone_slab, biomesoplenty:cut_black_sandstone_slab
+
+53: quark:building/crafting/vertplanks/vertical_crimson_planks, handcrafted:crimson_pillar_trim
+
+54: cosmeticarmoursmod:headslime_one_rec, refinedstorage:processor_binding
+
+55: quark:building/crafting/vertplanks/vertical_mangrove_planks, handcrafted:mangrove_pillar_trim
+
+56: cfm:stripped_jungle_bedside_cabinet, cfm:stripped_jungle_cabinet, cfm:stripped_jungle_crate, quark:tweaks/crafting/utility/chests/jungle_chest_wood
+
+57: minecraft:dye_black_wool, quark:tweaks/crafting/utility/wool/black_wool
+
+58: handcrafted:bamboo_pillar_trim, quark:building/crafting/vertplanks/vertical_bamboo_planks
+
+59: cfm:stripped_dark_oak_bedside_cabinet, quark:tweaks/crafting/utility/chests/dark_oak_chest_wood
+
+60: mcwwindows:birch_louvered_shutter, quark:building/crafting/vertslabs/birch_vertical_slab
+
+61: handcrafted:acacia_pillar_trim, quark:building/crafting/vertplanks/vertical_acacia_planks
+
+62: vinery:grapevine_stem, beachparty:palm_beam, quark:tweaks/crafting/utility/misc/easy_sticks
+
+63: simplyswords:gold_sai, divine_weaponry:golden_dagger_craft
+
+64: vinery:storage_pot, handcrafted:wood_cup
+
+65: quark:building/crafting/compressed/carrot_crate, farmersdelight:carrot_crate
+
+66: minecraft:dye_light_blue_wool, quark:tweaks/crafting/utility/wool/light_blue_wool
+
+67: divine_weaponry:diamond_spear_craft, mcdw:pick_diamond_pickaxe_var
+
+68: farmersdelight:beetroot_crate, quark:building/crafting/compressed/beetroot_crate
+
+69: mcwwindows:acacia_louvered_shutter, quark:building/crafting/vertslabs/acacia_vertical_slab
+
+70: minecraft:dye_light_gray_wool, quark:tweaks/crafting/utility/wool/light_gray_wool
+
+71: minecraft:dye_gray_wool, quark:tweaks/crafting/utility/wool/gray_wool
+
+72: quark:building/crafting/chests/mixed_chest, quark:building/crafting/chests/oak_chest
+
+73: quark:building/crafting/vertplanks/vertical_cherry_planks, handcrafted:cherry_pillar_trim
+
+74: biomesoplenty:cut_white_sandstone_slab, biomesoplenty:white_sandstone_slab
+
+75: minecraft:dye_purple_wool, quark:tweaks/crafting/utility/wool/purple_wool
+
+76: quark:building/crafting/vertplanks/vertical_dark_oak_planks, handcrafted:dark_oak_pillar_trim
+
+77: quark:building/crafting/vertplanks/vertical_spruce_planks, handcrafted:spruce_pillar_trim
+
+78: divine_weaponry:diamond_dagger_craft, simplyswords:diamond_sai
+
+Skipped special recipes: 
+minecraft:armor_dye
+sophisticatedbackpacks:backpack_dye
+minecraft:banner_duplicate
+alexsmobs:bison_upgrade
+minecraft:book_cloning
+fairylights:candle_lantern_light
+fairylights:color_changing_light
+fairylights:copy_color
+refinedstorage:cover
+minecraft:decorated_pot
+refurbished_furniture:door_mat_copy
+amendments:dye_bottle
+quark:dye_item
+fairylights:edit_color
+fairylights:fairy_light
+minecraft:firework_rocket
+minecraft:firework_star
+minecraft:firework_star_fade
+fairylights:flower_light
+minecraft:food_serving
+fairylights:ghost_light
+fairylights:hanging_lights
+fairylights:hanging_lights_augmentation
+fairylights:heart_light
+refinedstorage:hollow_cover
+fairylights:icicle_lights
+fairylights:jack_o_lantern
+fairylights:light_twinkle
+minecraft:map_cloning
+fairylights:meteor_light
+alexsmobs:mimicream_repair_recipe
+fairylights:moon_light
+fairylights:oil_lantern_light
+fairylights:orb_lantern
+fairylights:paper_lantern
+fairylights:pennant_bunting
+fairylights:pennant_bunting_augmentation
+minecraft:repair_item
+minecraft:shield_decoration
+minecraft:shulker_box_coloring
+fairylights:skull_light
+fairylights:snowflake_light
+majruszsdifficulty:soul_jar_shield
+fairylights:spearhead_pennant
+fairylights:spider_light
+fairylights:square_pennant
+fairylights:star_light
+minecraft:suspicious_stew
+fairylights:swallowtail_pennant
+fairylights:tinsel_garland
+minecraft:tipped_arrow
+fairylights:triangle_pennant
+quark:tweaks/crafting/elytra_duplication
+quark:tweaks/crafting/slab_to_block
+sophisticatedcore:upgrade_clear
+fairylights:witch_light
+
+===================================================================
+minecraft:smelting recipe conflicts (0)
+===================================================================
+
+===================================================================
+minecraft:blasting recipe conflicts (0)
+===================================================================
+
+===================================================================
+minecraft:smoking recipe conflicts (0)
+===================================================================
+
+===================================================================
+minecraft:smithing recipe conflicts (0)
+===================================================================
+

@@ -1,0 +1,22 @@
+{
+	id: "1b3980cd-2584-4fa9-b727-c052c06c7b14"
+	type: "party"
+	owner: "3da5dce1-9c66-499c-b49f-b8fa81e8f381"
+	ranks: {
+		3da5dce1-9c66-499c-b49f-b8fa81e8f381: "owner"
+		3a234236-41b1-4680-9adb-24289f3a3fae: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "sex"
+		"ftbteams:description": "coito"
+		"ftbteams:color": "#81FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1723872750627L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Zm0kes\"}]}" }
+		{ from: "3da5dce1-9c66-499c-b49f-b8fa81e8f381", date: 1723872750679L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Tekkyo08\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1723872753839L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Tekkyo08\"}]}" }
+	]
+	extra: { }
+}
